@@ -22,4 +22,6 @@ Dataset:
 * goodreads book description for the valida genres.
 
 The best model after testing several is the Support Vector Classification model with 64% of accuracy.
+
+The model can be tested on https://fakebooks.pythonanywhere.com/ which was created using flask framework on pythonanywhere.
 More information can be found in the pdf file.
