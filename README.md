@@ -25,4 +25,4 @@ The best model after testing several is the Support Vector Classification model 
 
 The model can be tested on https://fakebooks.pythonanywhere.com/ which was created using flask framework on pythonanywhere.
 
-More information can be found in the pdf file aout the implementation and benchmarks.
+More information can be found in the pdf file about the implementation and benchmarks.
