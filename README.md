@@ -1,4 +1,4 @@
-# Book Genre Prediction
+# Book Genre Prediction from Summary
 Book Genre Prediction using book summaries or blurb with both machine learning and deep learning techniques.
 
 Detectable or valid genres:
